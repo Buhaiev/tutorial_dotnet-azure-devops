@@ -1,5 +1,9 @@
 # Create a CI/CD pipeline for .NET with Azure App Service (formerly DevOps Starter)
 
+This is a sample learning project provided by https://devcloudninjas.github.io/DevOps-Projects/ as teaching tool for new DevOps specialists. 
+The rest of this file and the code were copied directly from the origin; on my side, I followed the instructions and succeeded in deploying the app. MY_NOTES.md contains the remarks I made while following the tutorial.
+
+
 ![devops](https://imgur.com/gBofYCl.png)
 
 > [!WARNING]
