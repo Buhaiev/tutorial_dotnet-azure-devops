@@ -6,8 +6,8 @@ trigger:
 variables:
   buildConfiguration: 'Release'
   projectPath: 'aspnet-core-dotnet-core/aspnet-core-dotnet-core.csproj'
-  azureServiceConnection: '<your service connection name>'   # e.g. azure-dotnet-lab
-  webAppName: '<your web app name>'                          # name from the portal, not the full URL
+  azureServiceConnection: 'resmanager'   # e.g. azure-dotnet-lab
+  webAppName: 'dotnet-azure-app'                          # name from the portal, not the full URL
 
 stages:
 - stage: Build
