@@ -7,7 +7,7 @@ variables:
   buildConfiguration: 'Release'
   projectPath: 'aspnet-core-dotnet-core/aspnet-core-dotnet-core.csproj'
   azureServiceConnection: 'resmanager'   # e.g. azure-dotnet-lab
-  webAppName: 'dotnet-azure-app'                          # name from the portal, not the full URL
+  webAppName: 'dotnet-lab'                          # name from the portal, not the full URL
 
 stages:
 - stage: Build
